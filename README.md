@@ -151,9 +151,6 @@ OK
 
 ![Тестирование mv](images/mv.png)
 
-#### Тестирование команды `exit`
-
-![Тестирование exit](images/exit.png)
 
 #### Результаты unittest
 
